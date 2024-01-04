@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------
+Results after 30 episodes:
+Average timesteps per episode: 13.7
+Average penalties per episode: 0.0
+Max score: 12
+Min score: -26
+Average score: 6.6
+Standard deviation: 6.411448094359547
+Total timesteps: 411
+Total penalties: 0
+Total time: 411
+---------------------------------------------------------------------------------------------
